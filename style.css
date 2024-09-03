@@ -34,7 +34,7 @@ h2 {
 
 .frase {
     width: 70%;
-    
+
 
 }
 
@@ -42,7 +42,7 @@ h2 {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    
+
 
 }
 
@@ -71,8 +71,10 @@ h3 {
     transition: box-shadow 0.5s;
     background-color: rgb(177, 110, 199);
     color: black;
-   
-    
+    margin-inline: 200px;
+
+
+
 }
 
 p {
@@ -91,27 +93,87 @@ p {
 
 .familia img {
     width: 300px;
+    height: 300px;
     border-radius: 10px;
 
 }
 
 .romeu img {
     width: 300px;
+    height: 300px;
     border-radius: 10px;
 }
 
 .volei video {
     width: 300px;
+    height: 300px;
     border-radius: 10px;
 }
 
 .divas img {
-    width: 300px;
+    width: 400px;
+    height: 300px;
     border-radius: 7px;
 }
 
 h4 {
-    font-family: "Great Vibes", cursive;  
+    font-family: "Great Vibes", cursive;
     font-size: 25px;
 }
 
+.filme1 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.filme1 img {
+    width: 300px;
+    height: 400px;
+}
+
+.filme2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.filme2 img {
+    width: 300px;
+    height: 400px;
+}
+
+.filme3 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.filme3 img {
+    width: 300px;
+    height: 400px;
+}
+
+.filme4 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.filme4 img {
+    width: 300px;
+    height: 400px;
+}
+
+.filmes {
+    display: flex;
+    justify-content: space-around;
+}
+
+h5 {
+    font-family: "Oleo Script", system-ui;
+}
