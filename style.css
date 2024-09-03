@@ -34,18 +34,23 @@ h2 {
 
 .frase {
     width: 70%;
+    
 
 }
 
 .alinhamento {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
+    align-items: center;
+    
+
 }
 
 .descricao {
     width: 90%;
     font-size: 15px;
-   
+    text-align: center;
+
 
 }
 
@@ -60,17 +65,53 @@ h3 {
 .secao1 {
     width: 900px;
     display: flex;
-   
     flex-direction: column;
     align-items: center;
     border-radius: 50px;
     transition: box-shadow 0.5s;
     background-color: rgb(177, 110, 199);
     color: black;
-
+   
+    
 }
 
 p {
     font-family: "Playfair Display", serif;
 
 }
+
+.image {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+
+
+
+}
+
+.familia img {
+    width: 300px;
+    border-radius: 10px;
+
+}
+
+.romeu img {
+    width: 300px;
+    border-radius: 10px;
+}
+
+.volei video {
+    width: 300px;
+    border-radius: 10px;
+}
+
+.divas img {
+    width: 300px;
+    border-radius: 7px;
+}
+
+h4 {
+    font-family: "Great Vibes", cursive;  
+    font-size: 25px;
+}
+
