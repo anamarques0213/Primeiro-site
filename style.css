@@ -1,0 +1,76 @@
+body {
+    background-color: rgb(227, 206, 249);
+}
+
+.perfil img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+
+
+
+}
+
+h1 {
+    font-family: "Oleo Script", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+
+}
+
+h2 {
+    display: flex;
+    justify-content: space-around;
+    width: 60%;
+    font-size: 20px;
+
+
+}
+
+.frase {
+    width: 70%;
+
+}
+
+.alinhamento {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.descricao {
+    width: 90%;
+    font-size: 15px;
+   
+
+}
+
+h3 {
+    font-family: "Great Vibes", cursive;
+    font-size: 30px;
+    text-align: center;
+    color: rgb(60, 11, 76);
+
+}
+
+.secao1 {
+    width: 900px;
+    display: flex;
+   
+    flex-direction: column;
+    align-items: center;
+    border-radius: 50px;
+    transition: box-shadow 0.5s;
+    background-color: rgb(177, 110, 199);
+    color: black;
+
+}
+
+p {
+    font-family: "Playfair Display", serif;
+
+}
