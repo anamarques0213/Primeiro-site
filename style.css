@@ -111,8 +111,8 @@ p {
 }
 
 .divas img {
-    width: 400px;
-    height: 300px;
+    width: 350px;
+    height: 350px;
     border-radius: 7px;
 }
 
@@ -121,59 +121,15 @@ h4 {
     font-size: 25px;
 }
 
-.filme1 {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-
-}
-
-.filme1 img {
-    width: 300px;
-    height: 400px;
-}
-
-.filme2 {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-
-}
-
-.filme2 img {
-    width: 300px;
-    height: 400px;
-}
-
-.filme3 {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-
-}
-
-.filme3 img {
-    width: 300px;
-    height: 400px;
-}
-
-.filme4 {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-
-}
-
-.filme4 img {
-    width: 300px;
-    height: 400px;
+.filmes img {
+   
+   width: 250px;
+   height: 350px;
+   text-align: center;
 }
 
 .filmes {
     display: flex;
     justify-content: space-around;
-}
+    }
 
-h5 {
-    font-family: "Oleo Script", system-ui;
-}
